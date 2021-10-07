@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "this is a great stream",
+      "id": 2
+    },
+    {
+      "title": "SignOutStream",
+      "description": "greoighj",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "Changed again",
+      "description": "No",
+      "id": 5
+    },
+    {
+      "title": "Refactor Reuse components",
+      "description": "Description changed",
+      "id": 6
+    }
+  ]
+}
